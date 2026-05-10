@@ -18,6 +18,8 @@
 
 **THESIS (研海燈塔)** 透過整合政府開放資料與機器學習技術，提供一個流暢、直觀且高效的寫作環境。
 
+![系統架構圖](assets/architecture.jpeg)
+
 ---
 
 ## 🌟 核心功能 (Key Features)
@@ -30,20 +32,30 @@
 *   結合 **臺灣博碩士論文知識加值系統** 與 **NBINet (全國圖書書目資訊網)** 等開放資料。
 *   利用機器學習技術，根據使用者輸入的內容或片段，自動推薦最相關的文獻、書籍及大學課程資訊。
 
+![文獻推薦結果](assets/recommendation.jpeg)
+
 ### 3. AI 偵測與文章查核 (AI Detection & Analysis)
 *   即時分析文章中疑似由 AI 生成的內容。
 *   提供可信度百分比，並以紅字標註高風險句段，幫助維護學術獨創性。
+
+![AI 偵測結果](assets/ai_detection.jpeg)
 
 ### 4. 自動化 LaTeX 排版 (LaTeX Formatting Engine)
 *   使用者只需專注於內容創作，系統自動套用 LaTeX 模板。
 *   支援不同大學/機構的格式要求，快速產出符合規範的 PDF 文件。
 
+![LaTeX 排版預覽](assets/preview.jpeg)
+
 ### 5. 論文評分與改進建議 (Scoring & Feedback)
 *   視覺化圖表呈現：AI 佔比、文章相似度、文獻引用情況。
 *   提供具體的修改建議，優化論文質量。
 
+![論文評分建議](assets/feedback.jpeg)
+
 ### 6. AI 聊天機器人助手 (AI Chatbot)
 *   提供操作指引與寫作建議，解決撰寫過程中的各類疑難雜症。
+
+![AI 聊天機器人](assets/chatbot.png)
 
 ---
 
